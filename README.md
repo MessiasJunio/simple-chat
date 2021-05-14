@@ -1,6 +1,6 @@
 <h1 align="center"> 
-  <img src="./.github/client.png" alt="Chat client screen" width="300" />
-  <img src="./.github/admin.png" alt="Chat admin screen" width="200" />
+  <img src="./.github/client.png" alt="Chat client screen" width="200" />
+  <img src="./.github/admin.png" alt="Chat admin screen" width="300" height="200" />
 </h1>
 
 ## About
